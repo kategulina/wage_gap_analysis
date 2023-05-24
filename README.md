@@ -9,4 +9,4 @@ Tento projekt je součásti semestrální práce z předmětu Základy datových
 - **složka power_bi_report** obsahuje Power BI report, který byl vytvořen v rámci analýzy.
 - **složka scripts** Obsahuje všechny vytvořené Python skripty.
 - **složka tables** obsahuje všechny tabulky, které byly použity pro analýzu, včetně původní tabulky a nově vytvořených během práce.
-- 
+
